@@ -33717,6 +33717,386 @@
                         "script": "",
                         "ext": "",
                         "name": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_23.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_25.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_29.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_31.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_35.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_45.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_53.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_11.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_41.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_51.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_57.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_39.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_15.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_47.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_17.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_68.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_09.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_104.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_98.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_87.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_62.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/SandyIdle/SB_Loc_Character_Sandy-Normal-DownRight-DownRight_Idle_1_03.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_78.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_76.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_116.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_120.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_112.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_110.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_96.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_100.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_72.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_82.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_86.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_106.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_88.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_92.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Customers/KrabsIdle/SB_Loc_Character_Krabs-Normal-DownRight-DownRight_Idle_1_64.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Atlas/Foreground.spriteatlasv2"
                     }
                 ]
             },
@@ -33760,6 +34140,26 @@
                         "script": "",
                         "ext": "",
                         "name": "Assets/Music/13540 very fast walking on gravel loop.wav"
+                    },
+                    {
+                        "channels": 1,
+                        "startTime": "00:00.000",
+                        "endTime": "00:00.000",
+                        "lengthInSeconds": 0.0,
+                        "bitrate": 128,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Music/Hawaiian Swing Loop (mp3cut.net).wav"
+                    },
+                    {
+                        "channels": 1,
+                        "startTime": "00:00.000",
+                        "endTime": "00:00.000",
+                        "lengthInSeconds": 0.0,
+                        "bitrate": 128,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Music/compress.wav"
                     }
                 ]
             },
