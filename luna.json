@@ -34097,6 +34097,66 @@
                         "script": "",
                         "ext": "",
                         "name": "Assets/_Project/Art/Atlas/Foreground.spriteatlasv2"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/DownRight/SB_Loc_Character_Spongebob-Normal-DownRight-DownRight_Idle_1_137.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/DownRight/SB_Loc_Character_Spongebob-Normal-DownRight-DownRight_Idle_1_151.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/DownRight/SB_Loc_Character_Spongebob-Normal-DownRight-DownRight_Idle_1_122.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/DownRight/SB_Loc_Character_Spongebob-Normal-DownRight-DownRight_Idle_1_173.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Patrick/Walk/Walk_DownRight/SB_Loc_Character_Patrick-Normal-DownRight-DownRight_Walk_1_58.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Patrick/Walk/Walk_DownRight/SB_Loc_Character_Patrick-Normal-DownRight-DownRight_Walk_1_84.png"
                     }
                 ]
             },
