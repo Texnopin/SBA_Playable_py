@@ -2,7 +2,7 @@
     "version": "6.2.1",
     "projectId": "61cef7f24d3707143bd49e25874dc417",
     "applicationID": 27856,
-    "creativeName": "",
+    "creativeName": "Bob_vfrfv",
     "pgServer": "EU",
     "window": {
         "‐‵": true
@@ -1715,10 +1715,6 @@
                 "excluded": true
             },
             {
-                "name": "UnityEngine.PlayerPrefs.SessionStorageWrapper",
-                "excluded": true
-            },
-            {
                 "name": "UnityEngine.Profiling.Profiler",
                 "excluded": true
             },
@@ -2036,10 +2032,6 @@
             },
             {
                 "name": "UnityEngine.Playables.PlayableBehaviour",
-                "excluded": true
-            },
-            {
-                "name": "UnityEngine.PlayerPrefs.SessionStorageProvider",
                 "excluded": true
             },
             {
@@ -6584,7 +6576,7 @@
             },
             {
                 "name": "UnityEngine.UI.ILayoutController",
-                "excluded": true
+                "excluded": false
             },
             {
                 "name": "UnityEngine.UI.ContentSizeFitter.FitMode",
@@ -6740,11 +6732,11 @@
             },
             {
                 "name": "UnityEngine.EventSystems.IUpdateSelectedHandler",
-                "excluded": true
+                "excluded": false
             },
             {
                 "name": "UnityEngine.EventSystems.IScrollHandler",
-                "excluded": true
+                "excluded": false
             },
             {
                 "name": "UnityEngine.EventSystems.IDropHandler",
@@ -6776,7 +6768,7 @@
             },
             {
                 "name": "UnityEngine.UI.ILayoutGroup",
-                "excluded": true
+                "excluded": false
             },
             {
                 "name": "UnityEngine.EventSystems.EventTrigger.TriggerEvent",
@@ -33651,6 +33643,66 @@
                         "excluded": false
                     }
                 ]
+            },
+            {
+                "className": "UnityEngine.PlayerPrefs.SessionStorageWrapper",
+                "staticMethods": [],
+                "instanceMethods": [
+                    {
+                        "name": "ctor",
+                        "excluded": false
+                    },
+                    {
+                        "name": "GetItem",
+                        "excluded": true
+                    },
+                    {
+                        "name": "SetItem",
+                        "excluded": true
+                    },
+                    {
+                        "name": "RemoveItem",
+                        "excluded": true
+                    },
+                    {
+                        "name": "Clear",
+                        "excluded": true
+                    }
+                ]
+            },
+            {
+                "className": "UnityEngine.PlayerPrefs.SessionStorageProvider",
+                "staticMethods": [],
+                "instanceMethods": [
+                    {
+                        "name": "init",
+                        "excluded": false
+                    },
+                    {
+                        "name": "Get",
+                        "excluded": true
+                    },
+                    {
+                        "name": "Set",
+                        "excluded": true
+                    },
+                    {
+                        "name": "Remove",
+                        "excluded": true
+                    },
+                    {
+                        "name": "Clear",
+                        "excluded": true
+                    },
+                    {
+                        "name": "Save",
+                        "excluded": true
+                    },
+                    {
+                        "name": "Has",
+                        "excluded": true
+                    }
+                ]
             }
         ],
         "stubberDataList": [],
@@ -34157,6 +34209,156 @@
                         "script": "",
                         "ext": "",
                         "name": "Assets/_Project/Art/Sprites/Animations/Patrick/Walk/Walk_DownRight/SB_Loc_Character_Patrick-Normal-DownRight-DownRight_Walk_1_84.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Sprites/EmojiOne.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_126.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_132.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_140.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_164.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_151.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_129.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_144.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_150.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_130.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_160.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/SpongeBob/Idle_1/Right/SB_Loc_Character_Spongebob-Normal-Right-Right_Idle_1_175.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Patrick/Walk/Walk_DownRight/SB_Loc_Character_Patrick-Normal-DownRight-DownRight_Walk_1_69.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Patrick/Walk/Walk_DownRight/SB_Loc_Character_Patrick-Normal-DownRight-DownRight_Walk_1_94.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "png32",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Art/Sprites/Animations/Patrick/Walk/Walk_DownRight/SB_Loc_Character_Patrick-Normal-DownRight-DownRight_Walk_1_56.png"
                     }
                 ]
             },
