@@ -2,7 +2,7 @@
     "version": "6.2.1",
     "projectId": "61cef7f24d3707143bd49e25874dc417",
     "applicationID": 27856,
-    "creativeName": "Bob_vfrfv",
+    "creativeName": "Sponge-Bob",
     "pgServer": "EU",
     "window": {
         "‐‵": true
@@ -132,10 +132,7 @@
         "scenes": [
             "Assets/_Project/_Scenes/Gameplay.unity"
         ],
-        "disabledScenes": [
-            "Assets/_Project/_Scenes/GameplayLegacy.unity",
-            "Assets/_Project/_Scenes/Test.unity"
-        ],
+        "disabledScenes": [],
         "startupScene": 0,
         "packages": {
             "default": {
