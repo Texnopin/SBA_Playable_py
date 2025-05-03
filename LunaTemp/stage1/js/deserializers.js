@@ -2425,11 +2425,11 @@ Deserializers.productName = "SpongeBob-Playable";
 
 Deserializers.lunaInitializationTime = "04/21/2025 08:42:21";
 
-Deserializers.lunaDaysRunning = "8.2";
+Deserializers.lunaDaysRunning = "12.0";
 
-Deserializers.lunaVersion = "6.2.1";
+Deserializers.lunaVersion = "6.3.0";
 
-Deserializers.lunaSHA = "28f227c1b455c28500de29df936f0d1376ee9c43";
+Deserializers.lunaSHA = "7c1090235e749b60367a931fd9d8e53ca14842b9";
 
 Deserializers.creativeName = "Sponge-Bob";
 
@@ -2453,11 +2453,11 @@ Deserializers.isForceUncompressed = "False";
 
 Deserializers.isAntiAliasingEnabled = "False";
 
-Deserializers.isRuntimeAnalysisEnabledForCode = "False";
+Deserializers.isRuntimeAnalysisEnabledForCode = "True";
 
-Deserializers.runtimeAnalysisExcludedClassesCount = "1730";
+Deserializers.runtimeAnalysisExcludedClassesCount = "1734";
 
-Deserializers.runtimeAnalysisExcludedMethodsCount = "4385";
+Deserializers.runtimeAnalysisExcludedMethodsCount = "4391";
 
 Deserializers.runtimeAnalysisExcludedModules = "physics3d, particle-system";
 
@@ -2481,7 +2481,7 @@ Deserializers.graphicsConstraint = 28;
 
 Deserializers.linearColorSpace = false;
 
-Deserializers.buildID = "812f098f-5a5d-43c4-82ee-a5c359a0c97d";
+Deserializers.buildID = "340450c4-f016-4680-9c09-f6b53a8a71ce";
 
 Deserializers.runtimeInitializeOnLoadInfos = [[["UnityEngine","Experimental","Rendering","ScriptableRuntimeReflectionSystemSettings","ScriptingDirtyReflectionSystemInstance"]],[["Unity","VisualScripting","RuntimeVSUsageUtility","RuntimeInitializeOnLoadBeforeSceneLoad"]],[["$BurstDirectCallInitializer","Initialize"],["$BurstDirectCallInitializer","Initialize"],["$BurstDirectCallInitializer","Initialize"],["$BurstDirectCallInitializer","Initialize"],["$BurstDirectCallInitializer","Initialize"],["$BurstDirectCallInitializer","Initialize"],["$BurstDirectCallInitializer","Initialize"]],[],[]];
 
